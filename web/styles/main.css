@@ -92,6 +92,10 @@ body {
   gap: 1.2rem;
 }
 
+#avatar {
+  border-radius: 50%;
+}
+
 .author-info {
   display: flex;
   align-items: center;
